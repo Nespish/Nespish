@@ -2,7 +2,7 @@
 
 Hola, Its Nespish! 👋
 ###### Im Artist/Programmer
-![Intro Image](assets/intro.png)
+![Intro Image](assets/Intro.png)
 
 ## Something I work with:
 
