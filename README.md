@@ -1,15 +1,27 @@
+<div align="center">
+
 Hola, Its Nespish! 👋
+###### Im Artist/Programmer
 
 ## Something I work with:
 
 ### Editing stuff
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr&perline=4" /> </a> </p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr&perline=4" />
+</a>
 
 ### Gamedev
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=blender,unreal&perline=2" /> </a> </p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=blender,unreal&perline=2" />
+</a>
 
 ### Programming Languages
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,cpp&perline=3" /> </a> </p>
----
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,cpp&perline=3" />
+</a>
+
+----------------------------
 
 Thats all, bye! 👋
+
+</div>
