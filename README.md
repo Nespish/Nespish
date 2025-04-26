@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=100&duration=2000&pause=300&color=ffc7ba&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hola%2C+Im+Nespish!" width="90%" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=25&duration=2000&pause=300&color=bbb4b4&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=1300&height=140&lines=Artist/Programmer/Editor/Animator" width="90%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=25&duration=5000&pause=300&color=bbb4b4&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=1300&height=140&lines=Artist/Programmer/Editor/Animator" width="90%" />
   
 ![image](assets/intro.png)
 ----------------------------
