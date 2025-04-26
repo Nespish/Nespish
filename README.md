@@ -1,16 +1,15 @@
-## Hi there 👋
+Hola, Its Nespish! 👋
 
-<!--
-**Nespish/Nespish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Something I work with:
 
-Here are some ideas to get you started:
+### Editing stuff
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr&perline=4" /> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Gamedev
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=blender,unreal&perline=2" /> </a> </p>
+
+### Programming Languages
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,csharp,cpp&perline=3" /> </a> </p>
+---
+
+Thats all, bye! 👋
