@@ -9,7 +9,7 @@ Hola, Its Nespish! 👋
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=blender,unreal&perline=2" /> </a> </p>
 
 ### Programming Languages
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,csharp,cpp&perline=3" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,cpp&perline=3" /> </a> </p>
 ---
 
 Thats all, bye! 👋
