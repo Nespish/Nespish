@@ -1,6 +1,6 @@
 <div align="center">
 
-Hola, Its Nespish! 👋
+# Hola, Its Nespish! 
 ###### Im Artist/Programmer
 ![image](assets/intro.png)
 
